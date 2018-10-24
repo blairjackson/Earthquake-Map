@@ -1,5 +1,14 @@
 html,
 body {
-    padding: 0;
+    height: 100%;
+}
+
+body {
     margin: 0;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(156, 155, 155);
 }
